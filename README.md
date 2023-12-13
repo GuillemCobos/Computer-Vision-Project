@@ -1,15 +1,15 @@
-# Computer vision project
-## Bacterial colony counting
+# Computer vision project
+## Bacterial colony counting
 
 * The program grabs the pictures in the folder 'images/' and performs colony counting.
 * The results are written in the file 'Bacterial Colony Counting.xlsx'
 * In the output, the concentration of pathogen in the sample is computed using 
 
-# IMPORTANT! 
-* Pictures have to be in the right date folder inside 'images/' (date format used in YYYY-MM-DD)
-* Picture files always have to follow the naming pattern "strain_timepoint_dilution" like in the example: "C5_t0_1/10 Large.jpeg"
+## Sample outputs
+* Here are some samples of the detection algorithm trained with YOLOv8 deep learning architechture:
+  
+![output](https://github.com/GuillemCobos/Computer-Vision-Project/assets/116403917/154b3990-f0f7-4d80-a9f4-c2938dfe71d9)
 
-# Some outputs# Computer-Vision-Project
-# Computer-Vision-Project
-# Computer-Vision-Project
-# Computer-Vision-Project
+![output](https://github.com/GuillemCobos/Computer-Vision-Project/assets/116403917/b90ead07-d36a-4151-90b0-55d930f88e5f)
+
+![output](https://github.com/GuillemCobos/Computer-Vision-Project/assets/116403917/146d8bb5-90cc-4b93-8f17-18024b855a30)
