@@ -8,8 +8,6 @@
 ## Sample outputs
 * Here are some samples of the detection algorithm trained with YOLOv8 deep learning architechture:
   
-![output](https://github.com/GuillemCobos/Computer-Vision-Project/assets/116403917/154b3990-f0f7-4d80-a9f4-c2938dfe71d9)
-
-![output](https://github.com/GuillemCobos/Computer-Vision-Project/assets/116403917/b90ead07-d36a-4151-90b0-55d930f88e5f)
-
-![output](https://github.com/GuillemCobos/Computer-Vision-Project/assets/116403917/146d8bb5-90cc-4b93-8f17-18024b855a30)
+![output](https://github.com/GuillemCobos/Computer-Vision-Project/assets/116403917/a21de5a8-80e3-45d8-9269-b1c268a2b64e)
+![output2](https://github.com/GuillemCobos/Computer-Vision-Project/assets/116403917/ab3f6ac2-635f-4b28-9e83-aa23e596ec46)
+![output3](https://github.com/GuillemCobos/Computer-Vision-Project/assets/116403917/4eb527b6-4f8c-4e45-abd7-8f843830f0b4)
