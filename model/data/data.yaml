@@ -1,0 +1,14 @@
+path: /Users/guillemcobos/Library/CloudStorage/GoogleDrive-guillem.cobos@koabiotech.com/.shortcut-targets-by-id/1UQ_YnLRmoAqhCue-qXYNP9QhYorsiAxS/KOA Biotech/06. KOA LAB/EXPERIMENT GALICIA COUNTING/model/data
+train: train/images
+val: valid/images
+#test: ../test/images
+
+nc: 1
+names: ['colony']
+
+roboflow:
+  workspace: koa-pcc5d
+  project: experiment-galicia-counting
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/koa-pcc5d/experiment-galicia-counting/dataset/2
